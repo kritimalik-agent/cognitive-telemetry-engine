@@ -3,8 +3,8 @@
 
 ---
 
-**Video demo:** [\[paste your YouTube/Loom link here\]](https://www.loom.com/share/1b20f49d9fb44f029a71c3a1245ae700)
-**Code:** [paste your GitHub repo link here]
+**Video demo:** [Watch on Loom](https://www.loom.com/share/1b20f49d9fb44f029a71c3a1245ae700)
+**Code:** [github.com/kritimalik-agent/cognitive-telemetry-engine](https://github.com/kritimalik-agent/cognitive-telemetry-engine)
 
 ---
 
